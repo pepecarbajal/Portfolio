@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@theme {
+  --color-bgc: #080C0F;
+  --color-textmain: #E4E4E4;
+  --color-subtext: #57595A;
+
+}
+
+body {
+  height: 100dvh;
+}

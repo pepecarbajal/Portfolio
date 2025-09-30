@@ -1,0 +1,44 @@
+{
+  "header": {
+    "name": "José Luis Carbajal",
+    "profession": "Desarrollador Full Stack",
+    "description": "Soy desarrollador full stack con experiencia en React, Node.js y bases de datos. Me apasiona crear soluciones eficientes y bien diseñadas.",
+    "image": "https://png.pngtree.com/png-clipart/20250314/original/pngtree-dapper-cat-in-formal-attire-png-image_19206813.png"
+  },
+  "about": {
+    "description": "Soy un desarrollador full stack con experiencia en la creación de aplicaciones web utilizando tecnologías como React, Node.js y bases de datos SQL y NoSQL. Me apasiona resolver problemas complejos y crear soluciones eficientes y bien diseñadas. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer el mejor trabajo posible."
+  },
+  "social": {
+    "github": "https://github.com/pepecarbajal",
+    "linkedin": "https://www.linkedin.com/in/jose-luis-carbajal-casarrubias-235bb1387",
+    "email": "carbajalcasarrubiasjoseluis@gmail.com",
+    "phone": "7561270452",
+    "location": "Chilapa de Álvarez, Guerrero."
+  },
+  "projects": [
+    {
+            "title": "Proyecto 1",
+            "description": "Descripción del Proyecto 1 lala alla la laal alla lalla  lalla",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1t-s_Vzwlc3JVxO-Bib8o7gfDxa75-2jyg&s",
+            "projectUrl": "https://example.com/proyecto1"
+    },
+    {
+            "title": "Proyecto 2",
+            "description": "Descripción del Proyecto 2",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1t-s_Vzwlc3JVxO-Bib8o7gfDxa75-2jyg&s",
+            "projectUrl": "https://example.com/proyecto2"
+    },
+    {
+            "title": "Proyecto 1",
+            "description": "Descripción del Proyecto 1",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1t-s_Vzwlc3JVxO-Bib8o7gfDxa75-2jyg&s",
+            "projectUrl": "https://example.com/proyecto1"
+    },
+    {
+            "title": "Proyecto 2",
+            "description": "Descripción del Proyecto 2",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1t-s_Vzwlc3JVxO-Bib8o7gfDxa75-2jyg&s",
+            "projectUrl": "https://example.com/proyecto2"
+    }
+  ]
+}
