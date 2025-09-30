@@ -17,7 +17,7 @@ const App = () => {
   return (
     <>
       <Hero info={data.header} social={data.social} />
-      <Content about={data.about} />
+      <Content about={data.about} projects={data.projects} />
     </>
   )
 }
