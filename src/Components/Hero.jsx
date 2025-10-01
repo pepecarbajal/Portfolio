@@ -3,7 +3,7 @@ const Hero = ({ info, social }) => {
     const { github, linkedin, email, phone, location } = social;
 
     return (
-        <header className="w-full h-full lg:fixed lg:top-0 lg:left-0 lg:w-[45%] p-8 sm:p-12 md:p-16">
+        <header className="w-full lg:fixed lg:top-0 lg:left-0 lg:w-[45%] p-8 sm:p-12 md:p-16">
             <div className="md:ml-[20%] lg:ml-[30%]">
                 <div className="w-36 h-36 mb-8 lg:mb-12">
                     <img
