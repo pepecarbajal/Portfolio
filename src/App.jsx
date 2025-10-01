@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import Hero from "./Components/Hero.jsx"
 import Content from "./Components/Content.jsx"
+import Footer from "./Components/Footer.jsx"
 
 const App = () => {
   const [data, setData] = useState(null);
@@ -17,7 +18,9 @@ const App = () => {
   return (
     <>
       <Hero info={data.header} social={data.social} />
-      <Content about={data.about} projects={data.projects} />
+      <Content about={data.about} projects={data.projects} skills={data.skills} name={data.header.name} />
+      
+      
     </>
   )
 }

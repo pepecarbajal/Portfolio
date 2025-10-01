@@ -1,10 +1,8 @@
 const Projects = ({ projects }) => {
     return (
         <>
-            <div className="p-4">
-                
+            <div id="projects" className="p-4">    
                 <h2 className="text-3xl font-bold mb-4 text-textmain">Proyectos</h2>
-                <hr className="my-8 border-t border-subtext" />
                 {projects.map((proyecto) => (
                     <div className="mb-20 mt-8" key={proyecto.title}>
                         <img className="w-full rounded-md" src={proyecto.imageUrl} alt="" />
@@ -18,6 +16,7 @@ const Projects = ({ projects }) => {
                     </div>
                 ))}
             </div>
+            <hr className="my-8 border-t border-subtext" />
         </>
     );
 }

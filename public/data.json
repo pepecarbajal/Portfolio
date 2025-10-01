@@ -2,8 +2,10 @@
   "header": {
     "name": "José Luis Carbajal",
     "profession": "Desarrollador Full Stack",
-    "description": "Soy un desarrollador full stack con experiencia en la creación de aplicaciones web. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer el mejor trabajo posible.",
     "image": "https://png.pngtree.com/png-clipart/20250314/original/pngtree-dapper-cat-in-formal-attire-png-image_19206813.png"
+  },
+  "about": {
+    "description": "Soy un desarrollador full stack con experiencia en la creación de aplicaciones web. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer el mejor trabajo posible."
   },
   "social": {
     "github": "https://github.com/pepecarbajal",
@@ -15,8 +17,8 @@
   "projects": [
     {
       "title": "Proyecto 1",
-      "description": "Descripción del Proyecto 1 lala alla la laal alla lalla  lalla",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1t-s_Vzwlc3JVxO-Bib8o7gfDxa75-2jyg&s",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/b1f371789de321ba82faaaea628437fe32414548",
       "projectUrl": "https://example.com/proyecto1",
       "technologies": [
         "JavaScript",
@@ -27,8 +29,8 @@
     },
     {
       "title": "Proyecto 1",
-      "description": "Descripción del Proyecto 1 lala alla la laal alla lalla  lalla",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1t-s_Vzwlc3JVxO-Bib8o7gfDxa75-2jyg&s",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://static.wixstatic.com/media/110ec7_c4fd5fba711f415fb2c177f38618ded6~mv2.png/v1/fill/w_980,h_560,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/110ec7_c4fd5fba711f415fb2c177f38618ded6~mv2.png",
       "projectUrl": "https://example.com/proyecto1",
       "technologies": [
         "JavaScript",
@@ -39,8 +41,8 @@
     },
     {
       "title": "Proyecto 1",
-      "description": "Descripción del Proyecto 1 lala alla la laal alla lalla  lalla",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1t-s_Vzwlc3JVxO-Bib8o7gfDxa75-2jyg&s",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/008/085/426/non_2x/creative-website-template-designs-illustration-concepts-of-web-page-design-for-website-and-mobile-website-easy-to-edit-and-customize-vector.jpg",
       "projectUrl": "https://example.com/proyecto1",
       "technologies": [
         "JavaScript",
@@ -49,5 +51,26 @@
         "Tailwind CSS"
       ]
     }
-  ]
+  ],
+  "skills": {
+    "Frontend": [
+      "HTML",
+      "CSS",
+      "React",
+      "Tailwind CSS"
+    ],
+    "Backend": [
+      "Node.js",
+      "AspNet Core"
+    ],
+    "BD": [
+      "MySQL",
+      "MongoDB"
+    ],
+    "Otros": [
+      "Git",
+      "GitHub",
+      "Postman"
+    ]
+  }
 }

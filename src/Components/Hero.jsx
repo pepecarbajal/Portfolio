@@ -1,5 +1,5 @@
 const Hero = ({ info, social }) => {
-    const { image, name, profession, description } = info;
+    const { image, name, profession } = info;
     const { github, linkedin, email, phone, location } = social;
 
     return (
@@ -15,12 +15,11 @@ const Hero = ({ info, social }) => {
 
                 <h1 className="text-3xl lg:text-4xl font-bold text-textmain mb-2">{name}</h1>
                 <h2 className="text-xl lg:text-2xl text-textmain mb-4">{profession}</h2>
-                <p className="text-subtext">{description}</p>
 
                 <ul className="mt-14 mb-14 space-y-2">
                     <li className="text-subtext hover:text-textmain">____ <a href="#about" className="text-subtext hover:text-textmain">Sobre mí</a></li>
                     <li className="text-subtext hover:text-textmain">____ <a href="#projects" className="text-subtext hover:text-textmain">Proyectos</a></li>
-                    <li className="text-subtext hover:text-textmain">____ <a href="#contact" className="text-subtext hover:text-textmain">Contacto</a></li>
+                    <li className="text-subtext hover:text-textmain">____ <a href="#skills" className="text-subtext hover:text-textmain">Habilidades</a></li>
                 </ul>
                 <hr className="my-8 border-t border-subtext" />
                 <ul className="mt-14 mb-14 space-y-2">
