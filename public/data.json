@@ -1,18 +1,18 @@
 {
   "header": {
-    "name": "José Luis Carbajal",
-    "profession": "Desarrollador Full Stack",
+    "name": "",
+    "profession": "",
     "image": "/img/perfil.webp"
   },
   "about": {
-    "description": "Soy un desarrollador full stack con experiencia en la creación de aplicaciones web. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer el mejor trabajo posible."
+    "description": ""
   },
   "social": {
-    "github": "https://github.com/pepecarbajal",
-    "linkedin": "https://www.linkedin.com/in/jose-luis-carbajal-casarrubias-235bb1387",
-    "email": "carbajalcasarrubiasjoseluis@gmail.com",
-    "phone": "7561270452",
-    "location": "Chilapa de Álvarez, Guerrero."
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com",
+    "email": "@gmail.com",
+    "phone": "",
+    "location": ""
   },
   "projects": [
     {
